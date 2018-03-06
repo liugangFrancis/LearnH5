@@ -1,0 +1,38 @@
+JQery类库
+1. 简化javaScript 的开发
+2. 创建富客户端页面
+3.兼容个人浏览器
+
+
+流行的类库：
+JQuery 
+Prototype
+MooTools
+Dojo
+ExtJS
+YUI
+
+基本使用
+http://jquery.com/download
+
+版本：2.x和1.x的区别
+
+引进jQery 库文件
+使用选择器定位要操作的库文件
+使用选择器定位要操作的节点
+调用jquery的方法进行操作
+
+
+jQuery函数
+1.jQuery（） 等同于 $()
+2. 共有4种使用方法
+1. 传递css 选择器给$()方法：$("#id")
+2. 传递Element、Document或者Window对象给$()方法：$(document)/$(this)
+3.
+
+
+
+
+
+
+
